@@ -1,8 +1,8 @@
 {
   "private": true,
   "dependencies": {
-    "@aws-sdk/client-opensearchserverless": "^3.840.0",
-    "@aws-sdk/credential-provider-node": "^3.565.0",
+    "@aws-sdk/client-opensearchserverless": "^3.1006.0",
+    "@aws-sdk/credential-provider-node": "^3.972.19",
     "@opensearch-project/opensearch": "^3.4.0"
   }
 }
